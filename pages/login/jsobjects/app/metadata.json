@@ -1,0 +1,11 @@
+{
+  "gitSyncId": "67ac769580a6ae5180464876_ba68bd11-e10a-41e6-adaa-6c0f8ff3e33f",
+  "id": "login_app",
+  "unpublishedCollection": {
+    "name": "app",
+    "pageId": "login",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": []
+  }
+}
